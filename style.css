@@ -31,3 +31,18 @@ h1, h2, p {
   margin-right: auto;
   padding: 0 20px;
 }
+
+.button {
+  display: inline-block;
+  background-color: #e8a317;
+  color: #000000;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 12px 24px;
+  border-radius: 6px;
+  margin: 10px 20px;
+}
+
+.button:hover {
+  background-color: #ffc233;
+}
